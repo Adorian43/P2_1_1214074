@@ -21,15 +21,14 @@ namespace P2_1_1214074
             Console.WriteLine("Angka Pertama : " + angkaPertama);
             Console.WriteLine("Angka Kedua : " + angkaKedua);
 
-            Console.WriteLine("20 + 5 = " + tambah);
-            Console.WriteLine("20 - 5 = " + kurang);
-            Console.WriteLine("20 * 5 = " + kali);
-            Console.WriteLine("20 / 5 = " + bagi);
+            Console.WriteLine("20 + 5 = " + tambah); // Tambah
+            Console.WriteLine("20 - 5 = " + kurang); // Kurang
+            Console.WriteLine("20 * 5 = " + kali); // Kali
+            Console.WriteLine("20 / 5 = " + bagi); // Bagi
 
 
 
-
-
+ 
         }
     }
 }
